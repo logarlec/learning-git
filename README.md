@@ -1,1 +1,2 @@
-# learning-gitIt is a study repository to practice git system.
+# learning-git
+It is a study repository to practice git system.
