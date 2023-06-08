@@ -1,2 +1,3 @@
+PACKAGE main
 go {}
 
